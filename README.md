@@ -8,3 +8,4 @@ Topics covered:
 5) Building machine learning Regression models
 6) Building data pipelines
  
+Libraries used: Pandas, NumPy, SciPy and scikit-learn.
